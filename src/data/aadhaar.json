@@ -1,0 +1,80 @@
+[
+  {
+    "aadhaar_number": "123456789012",
+    "name": "Ravi Kumar",
+    "phone": "+919876543210",
+    "hasVoted": true
+  },
+  {
+    "aadhaar_number": "987654321098",
+    "name": "Priya Sharma",
+    "phone": "+919812345678",
+    "hasVoted": false
+  },
+  {
+    "aadhaar_number": "098765432156",
+    "name": "sdfghjkl;sdfghjkl",
+    "phone": "1234567891",
+    "hasVoted": true
+  },
+  {
+    "aadhaar_number": "345678905435",
+    "name": "y bro",
+    "phone": "1234567891",
+    "hasVoted": true
+  },
+  {
+    "aadhaar_number": "907865435678",
+    "name": "uytrfgh",
+    "phone": "98765216",
+    "hasVoted": false
+  },
+  {
+    "aadhaar_number": "076543234567",
+    "name": "uyfdf",
+    "phone": "9876512345",
+    "hasVoted": true
+  },
+  {
+    "aadhaar_number": "987654345678",
+    "name": "ytrfgh",
+    "phone": "6543217890",
+    "hasVoted": true
+  },
+  {
+    "aadhaar_number": "098765434567",
+    "name": "hgfd",
+    "phone": "98765432",
+    "hasVoted": true
+  },
+  {
+    "aadhaar_number": "987656786787",
+    "name": "ytrfgn",
+    "phone": "876545678765",
+    "hasVoted": true
+  },
+  {
+    "aadhaar_number": "123456876543",
+    "name": "wertyu",
+    "phone": "213456765432",
+    "hasVoted": true
+  },
+  {
+    "aadhaar_number": "123456789013",
+    "name": "aaaabbbbcccc",
+    "phone": "9876543457",
+    "hasVoted": true
+  },
+  {
+    "aadhaar_number": "345678765434",
+    "name": "werty",
+    "phone": "77542568668",
+    "hasVoted": true
+  },
+  {
+    "aadhaar_number": "234567876543",
+    "name": "qwretf",
+    "phone": "3456789987",
+    "hasVoted": false
+  }
+]
